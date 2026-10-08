@@ -1,0 +1,3 @@
+﻿  pr8SP.cpp
+C:\moskvina\pr8SP\pr8SP.cpp(59,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+LINK : fatal error LNK1168: не удается открыть C:\moskvina\pr8SP\x64\Debug\pr8SP.exe для записи

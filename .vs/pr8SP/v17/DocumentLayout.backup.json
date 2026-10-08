@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\moskvina\\pr8SP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{172A65F1-0913-4473-9662-F1DA9FFF3E96}|pr8SP.vcxproj|C:\\moskvina\\pr8SP\\pr8SP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{172A65F1-0913-4473-9662-F1DA9FFF3E96}|pr8SP.vcxproj|solutionrelative:pr8SP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pr8SP.cpp",
+              "DocumentMoniker": "C:\\moskvina\\pr8SP\\pr8SP.cpp",
+              "RelativeDocumentMoniker": "pr8SP.cpp",
+              "ToolTip": "C:\\moskvina\\pr8SP\\pr8SP.cpp*",
+              "RelativeToolTip": "pr8SP.cpp*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-08T09:53:10.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 187,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
